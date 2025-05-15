@@ -1,6 +1,6 @@
-import logo from "../assets/images/logo.svg";
-import moonIcon from "../assets/images/icon-moon.svg";
-import sunIcon from "../assets/images/icon-sun.svg";
+import logo from "../assets/logo.svg";
+import moonIcon from "../assets/icon-moon.svg";
+import sunIcon from "../assets/icon-sun.svg";
 
 function Header({ toggleTheme, isDarkMode }) {
   return (
